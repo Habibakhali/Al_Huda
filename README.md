@@ -1,16 +1,28 @@
-# alhuda
+# Al-Huda App 🕌
+## Featcher:
+⌚ Prayer Time Tab : Check daily prayer times with reminder showing time left for next prayer.
 
-A new Flutter project.
+🤲🏼 Azkar Details : Includes morning and evening Azkar.
 
-## Getting Started
+📖 Quran Tab: Access the complete Quran suras.
 
-This project is a starting point for a Flutter application.
+📚 Surah Details: Get detailed information about each surah.
 
-A few resources to get you started if this is your first Flutter project:
+📜 Ahadith Tab: Explore authentic Hadith collections.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📻 Radio Tab: Listen to Quran with option to choose reciter and Surah.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📿 Sebha Tab: Keep track of daily dhikr and tasbih with a digital counter.
+
+🌗 Light and Dark Theme.
+
+🌍 Support Arabic Language and English Language.
+
+## Light Mode
+<img src='https://github.com/user-attachments/assets/fadddb8e-c503-44c5-90e9-9e0995465a0f'/>
+
+
+
+## Dark Model
+<img src='https://github.com/user-attachments/assets/b455ed5c-e53a-4755-9b64-c5c138f296f9'/>
+
